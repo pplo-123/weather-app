@@ -1,11 +1,10 @@
 import React from "react";
 import Weather from "./components/weather";
 import Form from "./components/form";
-// import SWeather from "./components/stateless_weather";
-// import SForm from "./components/stateless_form"
+
 import Titles from "./components/titles";
 
-const Api_Key = "8d2de98e089f1c28e1a22fc19a24ef04";
+const Api_Key = "38457e3095d86c0f4c869339d77741ce";
 
 class App extends React.Component {
 
