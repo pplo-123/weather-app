@@ -10,5 +10,6 @@
 ```
 npm start
 ```
-![alt text](src/img/Screenshot (72).png)
+
+![Alt text](src/img/Screenshot (72).png?raw=true "Title")
 
