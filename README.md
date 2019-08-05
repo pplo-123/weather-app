@@ -12,5 +12,7 @@ npm start
 ```
 Now app will be live on your local server. 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/gZvw1BR" data-context="false" ><a href="//imgur.com/a/gZvw1BR"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</br> 
+
+![Weather-App](https://imgur.com/a/gZvw1BR)
 
