@@ -9,7 +9,6 @@
 node --version
 npm  --version
 ```
-</br>
 **Step4**: Just run the below command in cmd. </br>
 ```
 npm start
