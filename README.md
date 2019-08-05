@@ -10,6 +10,7 @@
 ```
 npm start
 ```
+Now app will be live on your local server. 
 
-![Alt text](src/img/Screenshot (72).png?raw=true "Title")
+![stack Overflow](http://lmsotfy.com/so.png)
 
