@@ -14,5 +14,5 @@ Now app will be live on your local server.
 
 </br> 
 
-![](src/img/Screenshot (72).png)
+<img src="src/img/Screenshot (72).png">
 
