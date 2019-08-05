@@ -34,5 +34,5 @@ Now app will be live on your local server.
 
 </br> 
 
-## Hope thish helps!! Good Luck.
+## Hope thish helps!!.
 
