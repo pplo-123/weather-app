@@ -2,7 +2,7 @@
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pplo-123.github.io/weather-app",
+  "homepage": "https://pplo-123.github.io/weather-app/",
   "dependencies": {
     "bootstrap": "^3.4.1",
     "gh-pages": "^2.1.0",
