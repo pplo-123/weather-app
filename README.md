@@ -13,6 +13,23 @@ npm start
 Now app will be live on your local server. 
 
 </br> 
+ 
+# For full screen 
+</br> 
 
 <img src="src/img/Screenshot (72).png">
+<img src="src/img/Screenshot (73).png">
+
+</br> 
+
+# For mobile screen 
+
+</br> 
+
+<img src="src/img/Screenshot_2019-08-05-16-39-49-681_com.android.chrome.png"> 
+<img src="src/img/Screenshot_2019-08-05-16-40-12-973_com.android.chrome.png"> 
+
+</br> 
+
+## Hope thish helps!! Good Luck.
 
