@@ -14,5 +14,5 @@ Now app will be live on your local server.
 
 </br> 
 
-![Weather-App](https://imgur.com/a/gZvw1BR)
+![alt text](src/img/Screenshot (72).png "Description goes here")
 
